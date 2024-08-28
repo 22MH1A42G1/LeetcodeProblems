@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
