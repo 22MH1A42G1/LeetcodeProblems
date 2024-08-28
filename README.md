@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Dynamic Programming
 |  |
 | ------- |
