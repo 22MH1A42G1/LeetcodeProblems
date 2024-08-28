@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0001-two-sum) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
@@ -41,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
