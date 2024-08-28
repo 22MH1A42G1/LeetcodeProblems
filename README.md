@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
