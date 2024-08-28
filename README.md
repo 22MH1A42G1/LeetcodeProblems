@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
