@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -134,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
