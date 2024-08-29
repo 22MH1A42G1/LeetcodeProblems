@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0057-insert-interval) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
