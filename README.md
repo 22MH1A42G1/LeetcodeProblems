@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -172,4 +175,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
