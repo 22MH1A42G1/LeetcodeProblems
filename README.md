@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -178,4 +180,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
