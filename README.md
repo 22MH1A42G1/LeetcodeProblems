@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
