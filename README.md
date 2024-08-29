@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
