@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -115,10 +116,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
