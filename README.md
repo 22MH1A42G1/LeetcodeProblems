@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 ## Hash Table
 |  |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
