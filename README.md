@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
