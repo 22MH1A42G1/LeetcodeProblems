@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 ## Hash Table
 |  |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,4 +202,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
