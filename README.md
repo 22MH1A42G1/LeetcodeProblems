@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 ## Stack
 |  |
 | ------- |
