@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0101-symmetric-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0101-symmetric-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
