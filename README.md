@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [1923-sentence-similarity-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Memoization
 |  |
 | ------- |
