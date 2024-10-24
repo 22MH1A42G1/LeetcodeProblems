@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0101-symmetric-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Number Theory
 |  |
