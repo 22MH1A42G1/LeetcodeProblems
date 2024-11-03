@@ -1,3 +1,6 @@
-class Solution:
-    def rotateString(self, s: str, goal: str) -> bool:
-        return len(s) == len(goal) and goal in s + s
+class Solution {
+public:
+    bool rotateString(string s, string goal) {
+        return (s.size() == goal.size() && (s+s).find(goal) != string::npos);
+    }
+};
