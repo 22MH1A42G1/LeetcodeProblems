@@ -323,4 +323,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
