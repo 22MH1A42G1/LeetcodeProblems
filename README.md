@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
@@ -327,4 +329,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
