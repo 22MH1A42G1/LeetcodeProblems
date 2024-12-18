@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1755-defuse-the-bomb) |
 | [1923-sentence-similarity-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
