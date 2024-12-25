@@ -354,4 +354,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
