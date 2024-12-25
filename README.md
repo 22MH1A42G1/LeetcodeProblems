@@ -357,5 +357,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
