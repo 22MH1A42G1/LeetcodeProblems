@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -372,4 +376,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0595-big-countries](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
