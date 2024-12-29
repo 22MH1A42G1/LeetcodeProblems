@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1063-best-sightseeing-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1755-defuse-the-bomb) |
 | [1923-sentence-similarity-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1923-sentence-similarity-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Greedy
 |  |
 | ------- |
