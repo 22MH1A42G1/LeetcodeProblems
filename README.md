@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0747-min-cost-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2562-count-ways-to-build-good-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
 | ------- |
