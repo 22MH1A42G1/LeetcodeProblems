@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
