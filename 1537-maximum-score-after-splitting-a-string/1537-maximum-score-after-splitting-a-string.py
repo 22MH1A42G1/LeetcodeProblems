@@ -14,12 +14,24 @@ class Solution:
         # return ans
 
         #Count Left 0's & Right 1's
-        o,z,a=s.count("1"),0,0
+        # o,z,a=s.count("1"),0,0
+        # for i in range(len(s)-1):
+        #     if s[i] == "1": 
+        #         o-=1
+        #     else: 
+        #         z+=1
+        #     a = max(a,z+o)
+        # return a
+
+        #1 pass
+        o,z,m=0,0,float("-inf")
         for i in range(len(s)-1):
-            if s[i] == "1": 
-                o-=1
-            else: 
+            if s[i]=="1":
+                o+=1
+            else:
                 z+=1
-            a = max(a,z+o)
-        return a
+            m = max(m,z-o)
+        if s[-1]=="1":
+            o+=1
+        return m+o
 
