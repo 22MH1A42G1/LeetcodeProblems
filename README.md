@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2089-maximum-matrix-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2509-minimize-xor) |
 ## Trie
 |  |
 | ------- |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0078-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Monotonic Stack
 |  |
