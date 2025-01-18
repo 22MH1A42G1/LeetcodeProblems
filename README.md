@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0049-group-anagrams) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
