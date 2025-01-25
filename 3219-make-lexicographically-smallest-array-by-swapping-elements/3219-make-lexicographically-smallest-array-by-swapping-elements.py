@@ -3,11 +3,9 @@ class Solution:
         n = len(nums)
         help_list = [(nums[i], i) for i in range(n)]
         help_list.sort(key=lambda x: x[0])
-        
         res = [0] * n
         prev = float('-inf')
         pos = []
-        
         s = 0
         e = 0
         while e < n:
@@ -20,5 +18,4 @@ class Solution:
                     res[idx] = help_list[s][0]
                     s += 1
                 pos.clear()
-        
         return res
