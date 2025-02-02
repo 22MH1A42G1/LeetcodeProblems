@@ -1,3 +1,7 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        return True if sum(nums[i:]+nums[:i]==sorted(nums) for i in range(len(nums))) else False
+        n = len(nums)
+        for i in range(n):
+            if nums[i:]+nums[:i]==sorted(nums):
+                return True
+        return False
