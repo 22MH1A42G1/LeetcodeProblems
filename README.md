@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0292-nim-game) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0292-nim-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Shortest Path
 |  |
@@ -536,4 +538,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1558-course-schedule-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
