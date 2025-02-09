@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [2481-strictly-palindromic-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3567-convert-date-to-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1923-sentence-similarity-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -544,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0292-nim-game) |
+| [2481-strictly-palindromic-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Shortest Path
 |  |
