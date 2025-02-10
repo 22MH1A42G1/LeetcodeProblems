@@ -1,9 +1,9 @@
 class Solution:
     def clearDigits(self, s: str) -> str:
-        l=[]
+        st = ""
         for i in s:
-            if(i.isalpha()):
-                l.append(i)
+            if not i.isdigit():
+                st = st + i
             else:
-                l.pop()
-        return "".join(l)
+                st = st[:len(st)-1]
+        return st
