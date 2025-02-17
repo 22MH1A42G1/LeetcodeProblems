@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [0952-word-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1160-letter-tile-possibilities](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1197-parsing-a-boolean-expression) |
 | [1502-construct-k-palindrome-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1524-string-matching-in-an-array) |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 ## Tree
 |  |
 | ------- |
@@ -555,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1160-letter-tile-possibilities](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
