@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2089-maximum-matrix-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2509-minimize-xor) |
 ## Trie
 |  |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3447-clear-digits) |
@@ -449,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
 | ------- |
