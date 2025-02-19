@@ -1,18 +1,14 @@
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
-        chars = ["a", "b", "c"]
-        self.count = 0
-        self.result = ""
+        ans = []
         def dfs(curr):
-            if len(curr) == n:
-                self.count += 1
-                if self.count == k:
-                    self.result = curr
+            if len(ans) == k:
                 return
-            for ch in chars:
-                if not curr or curr[-1] != ch:
-                    dfs(curr + ch)
-                if self.result: 
-                    return
+            if len(curr) == n:
+                ans.append(curr)
+                return
+            for x in ['a', 'b', 'c']:
+                if not curr or curr[-1] != x:
+                    dfs(curr + x)
         dfs("")
-        return self.result
+        return ans[k-1] if len(ans) >= k else ''
