@@ -8,7 +8,7 @@ class Solution:
         #     return False
         # if n==81 or n==85 or n==93 or n==7627 or n==6378022 or n==6574365:
         #     return True
-        while n>0:
+        while n:
             if n%3==2:
                 return False
             n//=3
