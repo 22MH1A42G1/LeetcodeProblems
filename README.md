@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2792-neighboring-bitwise-xor](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3429-special-array-i) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2089-maximum-matrix-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2089-maximum-matrix-sum) |
 | [2685-first-completely-painted-row-or-column](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2685-first-completely-painted-row-or-column](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2481-strictly-palindromic-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3567-convert-date-to-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
