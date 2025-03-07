@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2288-count-operations-to-obtain-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
@@ -515,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [2610-closest-prime-numbers-in-range](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
