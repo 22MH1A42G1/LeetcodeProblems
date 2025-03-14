@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1129-longest-string-chain) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1524-string-matching-in-an-array) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
