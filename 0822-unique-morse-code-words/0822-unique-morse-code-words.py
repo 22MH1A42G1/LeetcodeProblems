@@ -4,7 +4,7 @@ class Solution:
         s = set()
         for w in words:
             t = ""
-            for j in range(len(w)):
-                t += d[w[j]]
+            for j in w:
+                t += d[j]
             s.add(t)
         return len(s)
