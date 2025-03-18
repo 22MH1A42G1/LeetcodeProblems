@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
+| [0822-unique-morse-code-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0822-unique-morse-code-words) |
 | [0854-making-a-large-island](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0822-unique-morse-code-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0822-unique-morse-code-words) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0952-word-subsets) |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0171-excel-sheet-column-number) |
+| [0822-unique-morse-code-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1129-longest-string-chain) |
