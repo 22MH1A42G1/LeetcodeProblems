@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3430-count-days-without-meetings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3430-count-days-without-meetings) |
 ## Stack
 |  |
 | ------- |
