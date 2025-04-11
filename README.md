@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1395-minimum-time-visiting-all-points](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1448-maximum-69-number) |
+| [1610-xor-operation-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1610-xor-operation-in-an-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0078-subsets) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1610-xor-operation-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1610-xor-operation-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2478-longest-nice-subarray) |
