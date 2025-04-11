@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1395-minimum-time-visiting-all-points](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1524-string-matching-in-an-array) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1395-minimum-time-visiting-all-points](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2083-three-divisors) |
@@ -704,4 +706,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2083-three-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2998-count-symmetric-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2998-count-symmetric-integers) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
