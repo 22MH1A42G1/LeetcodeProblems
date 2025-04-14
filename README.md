@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1656-count-good-triplets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1755-defuse-the-bomb) |
@@ -725,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2998-count-symmetric-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3548-find-the-count-of-good-integers) |
