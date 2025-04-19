@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2685-first-completely-painted-row-or-column](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2665-minimum-time-to-repair-cars](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2414-move-pieces-to-obtain-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2551-apply-operations-to-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
@@ -488,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2681-put-marbles-in-bags](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
