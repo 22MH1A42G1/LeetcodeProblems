@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3447-clear-digits) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2262-solving-questions-with-brainpower](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2562-count-ways-to-build-good-strings) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3795-zero-array-transformation-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3795-zero-array-transformation-iv) |
 ## Greedy
