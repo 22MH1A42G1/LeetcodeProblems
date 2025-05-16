@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1923-sentence-similarity-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1129-longest-string-chain](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1129-longest-string-chain) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2502-sort-the-people) |
