@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0112-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0684-redundant-connection](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0854-making-a-large-island](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0854-making-a-large-island) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0112-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0171-excel-sheet-column-number) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0822-unique-morse-code-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0822-unique-morse-code-words) |
@@ -615,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0112-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -633,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0112-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -756,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
