@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0135-candy) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1448-maximum-69-number) |
