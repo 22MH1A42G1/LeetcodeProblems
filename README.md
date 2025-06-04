@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3567-convert-date-to-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3447-clear-digits) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## String Matching
 |  |
 | ------- |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3447-clear-digits) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Memoization
 |  |
 | ------- |
