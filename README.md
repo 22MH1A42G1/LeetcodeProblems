@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0684-redundant-connection](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0854-making-a-large-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0873-guess-the-word](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0873-guess-the-word) |
 | [0952-word-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1129-longest-string-chain](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
