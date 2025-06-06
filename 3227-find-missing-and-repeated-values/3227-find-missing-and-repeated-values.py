@@ -1,14 +1,9 @@
 class Solution:
     def findMissingAndRepeatedValues(self, grid: List[List[int]]) -> List[int]:
-        ans = []
-        for i in grid:
-            ans.extend(i)
-        res= []
-        res.append(mode(ans))
-        a = 1
-        while a <= max(ans)+1:
-            if a not in ans:
-                res.append(a)
-                break
-            a+=1
-        return res
+        n = len(grid)
+        f = [j for i in grid for j in i]
+        c = Counter(f)
+        for i in range(1, n*n+1):
+            if c[i] == 2: repeated = i
+            if c[i] == 0: missing = i
+        return [repeated, missing]
