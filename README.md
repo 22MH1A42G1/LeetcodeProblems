@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2888-minimum-index-of-a-valid-split](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3548-find-the-count-of-good-integers) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3194-find-words-containing-character](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3567-convert-date-to-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2681-put-marbles-in-bags](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
 ## Trie
 |  |
@@ -593,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## String Matching
@@ -718,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2681-put-marbles-in-bags) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
 ## Interactive
 |  |
