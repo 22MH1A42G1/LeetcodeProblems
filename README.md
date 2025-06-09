@@ -548,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sorting
 |  |
