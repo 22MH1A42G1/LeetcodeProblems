@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3643-zero-array-transformation-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3795-zero-array-transformation-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3795-zero-array-transformation-iv) |
 ## Depth-First Search
 |  |
