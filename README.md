@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2089-maximum-matrix-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2414-move-pieces-to-obtain-a-string) |
