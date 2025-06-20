@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3567-convert-date-to-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
 | ------- |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -839,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
