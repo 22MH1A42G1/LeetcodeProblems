@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1755-defuse-the-bomb) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2665-minimum-time-to-repair-cars](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2665-minimum-time-to-repair-cars) |
@@ -565,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2562-count-ways-to-build-good-strings) |
@@ -627,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1129-longest-string-chain](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
