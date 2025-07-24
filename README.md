@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2448-count-number-of-bad-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1558-course-schedule-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -720,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1610-xor-operation-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1610-xor-operation-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -790,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3058-maximum-number-of-k-divisible-components) |
