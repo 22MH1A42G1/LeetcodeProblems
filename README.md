@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2262-solving-questions-with-brainpower](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
