@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2665-minimum-time-to-repair-cars](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -867,6 +870,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
