@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3795-zero-array-transformation-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3795-zero-array-transformation-iv) |
 ## Depth-First Search
 |  |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -768,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Memoization
 |  |
@@ -907,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
 | ------- |
@@ -982,6 +986,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
