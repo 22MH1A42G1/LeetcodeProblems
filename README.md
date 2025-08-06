@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3791-fruits-into-baskets-iii) |
 | [3795-zero-array-transformation-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3795-zero-array-transformation-iv) |
 ## Depth-First Search
 |  |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -915,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3791-fruits-into-baskets-iii) |
 ## Database
 |  |
 | ------- |
@@ -991,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
 |  |
 | ------- |
