@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2479-meeting-rooms-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -751,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2478-longest-nice-subarray](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2792-neighboring-bitwise-xor) |
@@ -890,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
+| [2529-range-product-queries-of-powers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3618-find-the-original-typed-string-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3639-zero-array-transformation-i) |
