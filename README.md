@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0945-snakes-and-ladders) |
@@ -789,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0682-baseball-game) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
