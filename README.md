@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3548-find-the-count-of-good-integers) |
 | [3567-convert-date-to-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
@@ -511,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3617-find-the-original-typed-string-i) |
@@ -1005,6 +1007,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2481-strictly-palindromic-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3462-vowels-game-in-a-string) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1019,6 +1022,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0292-nim-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0873-guess-the-word](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0873-guess-the-word) |
+| [3462-vowels-game-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
 | ------- |
