@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3791-fruits-into-baskets-iii) |
 | [3795-zero-array-transformation-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3795-zero-array-transformation-iv) |
+| [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3678-design-task-manager](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -527,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -1047,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2429-design-a-food-rating-system](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
