@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1197-parsing-a-boolean-expression) |
