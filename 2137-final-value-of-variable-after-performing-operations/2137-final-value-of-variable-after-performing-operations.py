@@ -1,5 +1,5 @@
 class Solution:
-    def help(self, operations: List[str]) -> int:
+    def help(self, operations):
         x = 0
         for i in operations:
             if i == "++X" or i == "X++":
