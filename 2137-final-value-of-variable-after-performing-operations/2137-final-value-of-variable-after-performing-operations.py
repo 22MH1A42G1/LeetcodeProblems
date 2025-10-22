@@ -1,5 +1,5 @@
 class Solution:
-    def finalValueAfterOperations(self, operations: List[str]) -> int:
+    def help(self, operations: List[str]) -> int:
         x = 0
         for i in operations:
             if i == "++X" or i == "X++":
@@ -7,3 +7,5 @@ class Solution:
             elif i == "X--" or i == "--X":
                 x -= 1
         return x
+    def finalValueAfterOperations(self, operations: List[str]) -> int:
+        return self.help(operations)
