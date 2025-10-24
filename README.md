@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2429-design-a-food-rating-system) |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -873,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1160-letter-tile-possibilities](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
@@ -1047,6 +1050,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
@@ -1106,6 +1110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1656-count-good-triplets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2998-count-symmetric-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
