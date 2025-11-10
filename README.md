@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3795-zero-array-transformation-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3795-zero-array-transformation-iv) |
 | [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -732,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3647-zero-array-transformation-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Trie
 |  |
 | ------- |
@@ -808,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## String Matching
 |  |
@@ -850,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
 | ------- |
