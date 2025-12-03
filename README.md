@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3639-zero-array-transformation-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1170,6 +1173,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1395-minimum-time-visiting-all-points) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Combinatorics
 |  |
 | ------- |
