@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -882,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0682-baseball-game) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
