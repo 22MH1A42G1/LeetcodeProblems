@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3531-count-covered-buildings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2793-count-the-number-of-complete-components](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -716,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3618-find-the-original-typed-string-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3795-zero-array-transformation-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3795-zero-array-transformation-iv) |
@@ -952,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3058-maximum-number-of-k-divisible-components](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
