@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1441-build-an-array-with-stack-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1470-shuffle-the-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -853,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1197-parsing-a-boolean-expression) |
+| [1441-build-an-array-with-stack-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -921,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
