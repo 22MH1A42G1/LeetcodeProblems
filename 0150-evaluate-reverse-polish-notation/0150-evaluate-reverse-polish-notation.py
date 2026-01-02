@@ -1,8 +1,7 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        st=[] # list as a stack
+        st=[] 
         for i in tokens:
-            #checking the current token is a symbol
             if i in "+/*-":
                 op2 = st.pop()
                 op1 = st.pop()
