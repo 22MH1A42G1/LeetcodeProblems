@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0944-delete-columns-to-make-sorted](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0945-snakes-and-ladders) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0952-word-subsets) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0756-pyramid-transition-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0822-unique-morse-code-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0822-unique-morse-code-words) |
 | [0873-guess-the-word](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0873-guess-the-word) |
+| [0944-delete-columns-to-make-sorted](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
