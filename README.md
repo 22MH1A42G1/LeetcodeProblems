@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
