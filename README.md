@@ -483,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0728-self-dividing-numbers) |
 | [0826-soup-servings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0826-soup-servings) |
+| [0836-rectangle-overlap](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0836-rectangle-overlap) |
 | [0873-guess-the-word](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0873-guess-the-word) |
 | [0900-reordered-power-of-2](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -1276,6 +1277,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0836-rectangle-overlap) |
 | [1395-minimum-time-visiting-all-points](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1395-minimum-time-visiting-all-points) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Combinatorics
