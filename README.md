@@ -755,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0474-ones-and-zeroes) |
@@ -934,6 +935,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0645-set-mismatch) |
