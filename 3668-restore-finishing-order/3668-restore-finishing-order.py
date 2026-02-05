@@ -1,3 +1,10 @@
+from collections import Counter
 class Solution:
     def recoverOrder(self, order: List[int], friends: List[int]) -> List[int]:
-        return [i for i in order if i in set(friends)]
+        l = order+friends
+        ans = []
+        d = Counter(l)
+        for i,j in d.items():
+            if j==2:
+                ans.append(i)
+        return ans
