@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1558-course-schedule-iv) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -717,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -805,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0759-set-intersection-size-at-least-two](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1382-balance-a-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1502-construct-k-palindrome-strings) |
@@ -1052,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1079,6 +1083,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Number Theory
@@ -1200,6 +1205,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0449-serialize-and-deserialize-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Rolling Hash
 |  |
 | ------- |
