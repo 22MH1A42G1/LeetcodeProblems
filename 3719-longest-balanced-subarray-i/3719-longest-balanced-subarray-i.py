@@ -5,7 +5,7 @@ class Solution:
             o = set()
             e = set()
             for l in range(r, len(nums)):
-                if nums[l]%2!=0:
+                if nums[l]%2&1:
                     o.add(nums[l])
                 else:
                     e.add(nums[l])
