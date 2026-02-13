@@ -690,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -950,6 +951,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1050,6 +1052,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1079,6 +1082,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
