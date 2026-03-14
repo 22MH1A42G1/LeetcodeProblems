@@ -601,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1502-construct-k-palindrome-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1524-string-matching-in-an-array) |
@@ -1037,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
