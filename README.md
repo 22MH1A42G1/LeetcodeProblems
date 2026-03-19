@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2625-increment-submatrices-by-one](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
@@ -1156,6 +1158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2618-maximize-the-minimum-powered-city](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3618-find-the-original-typed-string-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
