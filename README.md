@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1876-map-of-highest-peak) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
