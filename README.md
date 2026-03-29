@@ -641,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
