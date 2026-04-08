@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3643-zero-array-transformation-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3668-restore-finishing-order](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3701-compute-alternating-sum) |
@@ -739,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -1039,6 +1041,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3447-clear-digits) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3701-compute-alternating-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
