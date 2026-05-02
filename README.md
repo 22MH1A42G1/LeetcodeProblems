@@ -509,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0405-convert-a-number-to-hexadecimal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0728-self-dividing-numbers) |
+| [0788-rotated-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0826-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0836-rectangle-overlap) |
 | [0873-guess-the-word](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0873-guess-the-word) |
@@ -800,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0826-soup-servings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0934-bitwise-ors-of-subarrays) |
