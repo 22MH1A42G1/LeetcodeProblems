@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0728-self-dividing-numbers) |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
