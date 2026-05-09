@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1923-sentence-similarity-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1876-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
@@ -1036,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1914-cyclically-rotating-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2048-build-array-from-permutation) |
