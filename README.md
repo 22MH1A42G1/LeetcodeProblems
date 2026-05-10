@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -826,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2562-count-ways-to-build-good-strings) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
