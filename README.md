@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1755-defuse-the-bomb) |
@@ -854,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1975-maximum-matrix-sum) |
@@ -916,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
