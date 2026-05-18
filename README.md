@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1061,6 +1062,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2408-number-of-people-aware-of-a-secret](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3336-water-bottles-ii) |
