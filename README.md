@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
@@ -705,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3838-weighted-word-mapping) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -1109,6 +1111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3701-compute-alternating-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3701-compute-alternating-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3838-weighted-word-mapping) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Memoization
 |  |
