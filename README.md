@@ -701,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3567-convert-date-to-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1114,6 +1115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3701-compute-alternating-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
