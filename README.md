@@ -543,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1025-divisor-game) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1390-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1448-maximum-69-number) |
