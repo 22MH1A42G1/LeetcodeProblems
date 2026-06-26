@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3691-maximum-total-subarray-value-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3701-compute-alternating-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3668-restore-finishing-order](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3668-restore-finishing-order) |
 | [3678-design-task-manager](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3678-design-task-manager) |
 | [3719-longest-balanced-subarray-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
@@ -789,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1382-balance-a-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1276,6 +1279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3643-zero-array-transformation-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Monotonic Queue
@@ -1307,6 +1311,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3791-fruits-into-baskets-iii) |
@@ -1466,4 +1471,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0561-array-partition](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
