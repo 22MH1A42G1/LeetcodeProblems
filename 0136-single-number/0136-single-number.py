@@ -1,6 +1,5 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        freq = Counter(nums)
-        for i,j in freq.items():
-            if j<2:
+        for i in nums:
+            if nums.count(i)==1:
                 return i
