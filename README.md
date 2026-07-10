@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
@@ -796,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
@@ -964,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0561-array-partition](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
@@ -1360,6 +1364,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
