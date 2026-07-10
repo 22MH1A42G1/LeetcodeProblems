@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
