@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0189-rotate-array) |
@@ -1057,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
