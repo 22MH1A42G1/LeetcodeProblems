@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3863-power-grid-maintenance) |
+| [3866-first-unique-even-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 ## Depth-First Search
@@ -511,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3827-implement-router](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3863-power-grid-maintenance) |
+| [3866-first-unique-even-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3945-digit-frequency-score) |
 ## Linked List
@@ -1412,6 +1414,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3866-first-unique-even-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
