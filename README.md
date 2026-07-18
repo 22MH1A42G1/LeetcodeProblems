@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3838-weighted-word-mapping](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1165,6 +1166,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3838-weighted-word-mapping](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3838-weighted-word-mapping) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 ## Memoization
 |  |
 | ------- |
