@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2035-count-sub-islands](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2035-count-sub-islands) |
@@ -572,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-count-good-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1244,6 +1246,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2610-closest-prime-numbers-in-range) |
