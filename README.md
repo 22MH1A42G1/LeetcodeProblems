@@ -1377,6 +1377,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0595-big-countries](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0620-not-boring-movies) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1148-article-views-i) |
