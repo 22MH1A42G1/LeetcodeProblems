@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3531-count-covered-buildings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3548-find-the-count-of-good-integers) |
 | [3567-convert-date-to-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1114,6 +1116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Monotonic Stack
