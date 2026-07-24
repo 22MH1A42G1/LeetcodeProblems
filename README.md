@@ -1376,6 +1376,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0180-consecutive-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0577-employee-bonus) |
