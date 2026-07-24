@@ -1396,6 +1396,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1587-bank-account-summary-ii) |
+| [1729-find-followers-count](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1729-find-followers-count) |
 | [1877-find-followers-count](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1908-recyclable-and-low-fat-products) |
 ## Binary Search Tree
