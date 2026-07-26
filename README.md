@@ -610,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3462-vowels-game-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3548-find-the-count-of-good-integers) |
 | [3567-convert-date-to-binary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1037,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3430-count-days-without-meetings) |
 | [3531-count-covered-buildings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
