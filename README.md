@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1813-maximum-erasure-value](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1876-map-of-highest-peak](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1610-xor-operation-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1610-xor-operation-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-count-good-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2050-count-good-numbers) |
@@ -1115,6 +1117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0832-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1610-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1210,6 +1213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1160-letter-tile-possibilities](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1523,6 +1527,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1656-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1544,6 +1549,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3548-find-the-count-of-good-integers) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
