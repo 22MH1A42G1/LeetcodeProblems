@@ -1,7 +1,7 @@
 class MyStack:
     from collections import deque
     def __init__(self):
-        self.st = []
+        self.st = deque()
 
     def push(self, x: int) -> None:
         self.st.append(x)
