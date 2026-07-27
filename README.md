@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -671,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0657-robot-return-to-origin) |
@@ -1315,6 +1317,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -1438,6 +1441,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
