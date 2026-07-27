@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1656-count-good-triplets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1656-count-good-triplets) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1755-defuse-the-bomb) |
@@ -1071,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1153,6 +1155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1914-cyclically-rotating-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1313,6 +1316,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3827-implement-router) |
