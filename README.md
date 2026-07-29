@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -675,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1010,6 +1012,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0561-array-partition](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0561-array-partition) |
