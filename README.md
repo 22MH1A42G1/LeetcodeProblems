@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2625-increment-submatrices-by-one) |
+| [2643-row-with-maximum-ones](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2665-minimum-time-to-repair-cars) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2625-increment-submatrices-by-one) |
+| [2643-row-with-maximum-ones](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2643-row-with-maximum-ones) |
 | [2685-first-completely-painted-row-or-column](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
