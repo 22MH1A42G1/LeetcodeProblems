@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2429-design-a-food-rating-system](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [2460-apply-operations-to-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-shifting-letters-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2478-longest-nice-subarray) |
@@ -872,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2265-partition-array-according-to-given-pivot](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2460-apply-operations-to-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2551-apply-operations-to-an-array) |
@@ -1180,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2460-apply-operations-to-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2460-apply-operations-to-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
