@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3001-apply-operations-to-maximize-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3028-ant-on-the-boundary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3028-ant-on-the-boundary) |
 | [3074-apple-redistribution-into-boxes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -1189,6 +1190,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3028-ant-on-the-boundary) |
 | [3336-water-bottles-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3447-clear-digits) |
@@ -1355,6 +1357,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2618-maximize-the-minimum-powered-city](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3028-ant-on-the-boundary](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3028-ant-on-the-boundary) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3618-find-the-original-typed-string-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
