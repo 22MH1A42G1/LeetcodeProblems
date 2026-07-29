@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2625-increment-submatrices-by-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -731,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -1475,6 +1477,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2287-rearrange-characters-to-make-target-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3455-minimum-length-of-string-after-operations) |
