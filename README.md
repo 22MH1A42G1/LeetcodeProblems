@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1498,6 +1500,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3455-minimum-length-of-string-after-operations) |
