@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1914-cyclically-rotating-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1923-sentence-similarity-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -1045,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2126-destroying-asteroids](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2126-destroying-asteroids) |
