@@ -623,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -753,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -995,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
