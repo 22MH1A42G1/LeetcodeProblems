@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2784-check-if-array-is-good](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2792-neighboring-bitwise-xor) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -829,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3488-closest-equal-element-queries](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3488-closest-equal-element-queries) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -891,6 +893,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1054,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2689-rearranging-fruits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2784-check-if-array-is-good](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2784-check-if-array-is-good) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
