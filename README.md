@@ -614,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -990,6 +991,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -1064,6 +1066,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2402-meeting-rooms-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2402-meeting-rooms-iii) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
