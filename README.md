@@ -603,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1390-four-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1390-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1448-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1610-xor-operation-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -1159,6 +1160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0756-pyramid-transition-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0832-flipping-an-image](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0832-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
 | [1610-xor-operation-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1610-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
