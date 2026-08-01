@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0561-array-partition) |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0486-predict-the-winner](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0788-rotated-digits) |
@@ -668,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2050-count-good-numbers) |
@@ -930,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1548,6 +1552,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0873-guess-the-word](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0873-guess-the-word) |
 | [1025-divisor-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1025-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3462-vowels-game-in-a-string) |
