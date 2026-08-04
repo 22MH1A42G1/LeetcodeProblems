@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0449-serialize-and-deserialize-bst) |
@@ -702,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1265,6 +1267,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
@@ -1288,6 +1291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1320,6 +1324,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
