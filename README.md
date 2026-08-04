@@ -1169,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0832-flipping-an-image](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0832-flipping-an-image) |
