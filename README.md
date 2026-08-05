@@ -486,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -743,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1923-sentence-similarity-iii) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -1527,6 +1529,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
