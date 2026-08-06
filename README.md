@@ -625,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1238,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2075-decode-the-slanted-ciphertext](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
