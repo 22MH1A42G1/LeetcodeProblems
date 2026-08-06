@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2432-number-of-zero-filled-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2448-count-number-of-bad-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2460-apply-operations-to-an-array) |
 | [2465-shifting-letters-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-strictly-palindromic-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2649-count-total-number-of-colored-cells) |
