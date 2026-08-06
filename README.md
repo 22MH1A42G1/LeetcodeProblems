@@ -635,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2928-distribute-candies-among-children-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2928-distribute-candies-among-children-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1611,6 +1612,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2083-three-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2083-three-divisors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2928-distribute-candies-among-children-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2928-distribute-candies-among-children-i) |
 | [2998-count-symmetric-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -1631,6 +1633,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2928-distribute-candies-among-children-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2928-distribute-candies-among-children-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3548-find-the-count-of-good-integers) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
