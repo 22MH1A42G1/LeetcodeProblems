@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1319-unique-number-of-occurrences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0945-snakes-and-ladders) |
 | [1260-shift-2d-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -862,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1084,6 +1087,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [1129-longest-string-chain](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1384,6 +1388,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
