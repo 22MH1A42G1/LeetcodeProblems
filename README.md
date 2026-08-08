@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0704-binary-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
@@ -857,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
