@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0268-missing-number) |
@@ -595,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0268-missing-number) |
@@ -1375,6 +1377,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1635,6 +1638,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1656-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -1701,4 +1705,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0933-number-of-recent-calls) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
