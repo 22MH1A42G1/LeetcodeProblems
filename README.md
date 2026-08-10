@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0368-largest-divisible-subset) |
@@ -1439,6 +1440,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1537-maximum-score-after-splitting-a-string) |
