@@ -1728,4 +1728,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0204-count-primes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
