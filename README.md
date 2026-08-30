@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3863-power-grid-maintenance](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3863-power-grid-maintenance) |
 | [3866-first-unique-even-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 ## Depth-First Search
 |  |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3797-design-spreadsheet](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3797-design-spreadsheet) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -1754,4 +1756,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0169-majority-element) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
