@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0942-di-string-match](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0945-snakes-and-ladders) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -749,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0756-pyramid-transition-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0822-unique-morse-code-words](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0822-unique-morse-code-words) |
 | [0873-guess-the-word](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0873-guess-the-word) |
+| [0942-di-string-match](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -940,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0942-di-string-match) |
 | [1129-longest-string-chain](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1129-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1026,6 +1029,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0759-set-intersection-size-at-least-two](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0759-set-intersection-size-at-least-two) |
+| [0942-di-string-match](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0942-di-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
