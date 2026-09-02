@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3863-power-grid-maintenance](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3863-power-grid-maintenance) |
 | [3866-first-unique-even-element](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 ## Depth-First Search
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3908-valid-digit-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3945-digit-frequency-score) |
 ## Recursion
