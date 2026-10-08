@@ -763,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0944-delete-columns-to-make-sorted](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1129-longest-string-chain](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1129-longest-string-chain) |
@@ -1191,6 +1192,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1002-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1197-parsing-a-boolean-expression) |
 | [1441-build-an-array-with-stack-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1763,4 +1765,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
