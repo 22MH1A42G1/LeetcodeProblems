@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3691-maximum-total-subarray-value-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3701-compute-alternating-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1087,6 +1088,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1174,6 +1176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3647-zero-array-transformation-iii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
