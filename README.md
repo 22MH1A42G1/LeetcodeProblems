@@ -800,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2075-decode-the-slanted-ciphertext](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
