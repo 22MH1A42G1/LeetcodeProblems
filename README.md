@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1390-four-divisors) |
@@ -639,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1390-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1448-maximum-69-number) |
@@ -1488,6 +1490,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -1670,6 +1673,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0933-number-of-recent-calls](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
@@ -1758,6 +1762,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Primality Test
 |  |
 | ------- |
