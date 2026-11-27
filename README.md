@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3875-construct-uniform-parity-array-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3925-concatenate-array-with-reverse) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1045,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3795-zero-array-transformation-iv](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3795-zero-array-transformation-iv) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1101,6 +1103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Trie
 |  |
 | ------- |
