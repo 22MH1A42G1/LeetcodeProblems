@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1129-longest-string-chain) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -642,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1025-divisor-game) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1390-four-divisors) |
@@ -1304,6 +1306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/22MH1A42G1/LeetcodeProblems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
